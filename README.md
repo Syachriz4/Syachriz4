@@ -18,7 +18,7 @@ Setiap pertemuan akan didokumentasikan pada tabel di bawah, dengan tautan ke fil
 | No  | Pertemuan Ke | Tema | Laporan | Repository |
 | --- | ------------ | ---- | ------- | ---------- |
 | 1   | Pertemuan 1  | Pengenalan Mobile Programming dan Setup Lingkungan | [📄 Laporan](https://docs.google.com/document/d/1E1ednbvogws-rEymaGhHhoZR35tKb4enxTSLoxJpgTY/edit?usp=sharing) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/pertemuan_1) |
-| 2   | Pertemuan 2  | ...  | [📄 Laporan](./laporan/pertemuan2.md) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan2) |
+| 2   | Pertemuan 1.2  | ...  | [📄 Laporan](./laporan/pertemuan2.md) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan2) |
 | 3   | Pertemuan 3  | ...  | [📄 Laporan](./laporan/pertemuan3.md) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan3) |
 
 ---
