@@ -1,63 +1,19 @@
-# 👋 Hi, I'm Bintang Akbar  
+# 📒 Repository Laporan Praktikum Mobile Programming
 
-💻 A 4th semester Informatics Engineering student with strong interest in **Mobile Development (Flutter)** and **Data Science / AI**.  
-🚀 Passionate about building practical projects, learning by doing, and sharing knowledge.  
-
----
-
-## 🌟 About Me  
-- 🎓 Informatics Engineering student | Class of 2027  
-- 🛠️ Exploring **Flutter**, **Dart**, and **Android Development**  
-- 📊 Interested in **AI, Machine Learning, and Data Science**  
-- 🔥 Always learning, building, and experimenting with projects  
+Repository ini digunakan untuk mengumpulkan laporan praktikum sesuai dengan instruksi dosen.  
+Setiap pertemuan akan didokumentasikan pada tabel di bawah, dengan tautan ke file laporan dan repository jika diperlukan.  
 
 ---
 
-## 🚀 Tech Stack  
-**Languages & Frameworks**  
-- Flutter / Dart  
-- Python (Data Science / AI)  
-- Java, C++ (Academic projects)  
+## 📑 Daftar Laporan
 
-**Tools & Platforms**  
-- Android Studio | VS Code  
-- Git & GitHub  
-- Jupyter Notebook  
+| No  | Pertemuan Ke | Tema | Laporan | Repository |
+| --- | ------------ | ---- | ------- | ---------- |
+| 1   | Pertemuan 1  | Desain UI Aplikasi Prakiraan Cuaca dengan Layout Row dan Column | [📄 Laporan](./laporan/pertemuan1.md) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan1) |
+| 2   | Pertemuan 2  | ...  | [📄 Laporan](./laporan/pertemuan2.md) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan2) |
+| 3   | Pertemuan 3  | ...  | [📄 Laporan](./laporan/pertemuan3.md) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan3) |
 
 ---
 
-## 📂 Featured Projects  
-- 📱 **Instagram Clone** → Built with Flutter, running on Android Studio  
-- 🤖 **AI & Data Science Explorations** → Applying machine learning methods on real-world datasets  
-- 📝 Academic projects → Data structures, algorithms, and software engineering coursework  
+## 📂 Struktur Folder
 
-*(more projects coming soon...)*  
-
----
-| No  | Pertemuan Ke  | Tema  | Laporan  | Repository  |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-| 1  |   |   |   |   |
----
-
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com) *(update with your link)*  
-- 📧 Email: your-email@example.com  
-
----
-
-⭐️ *"Keep learning, keep building, and keep growing."*  
-
-<!--
-**BintangS4/BintangS4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
