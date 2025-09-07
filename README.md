@@ -1,5 +1,9 @@
-# 📒 Repository Laporan Praktikum Mobile Programming
+# 📒 Repository Laporan Praktikum Mobile Programming E
 
+Nama : Bintang Syachriza Akbar
+Nim  : 230605110061
+Hari : Kamis
+Jam  : 14.00 - 15.40
 Repository ini digunakan untuk mengumpulkan laporan praktikum sesuai dengan instruksi dosen.  
 Setiap pertemuan akan didokumentasikan pada tabel di bawah, dengan tautan ke file laporan dan repository jika diperlukan.  
 
@@ -9,7 +13,7 @@ Setiap pertemuan akan didokumentasikan pada tabel di bawah, dengan tautan ke fil
 
 | No  | Pertemuan Ke | Tema | Laporan | Repository |
 | --- | ------------ | ---- | ------- | ---------- |
-| 1   | Pertemuan 1  | Desain UI Aplikasi Prakiraan Cuaca dengan Layout Row dan Column | [📄 Laporan](./laporan/pertemuan1.md) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan1) |
+| 1   | Pertemuan 1  | Desain UI Aplikasi Prakiraan Cuaca dengan Layout Row dan Column | [📄 Laporan](https://docs.google.com/document/d/1E1ednbvogws-rEymaGhHhoZR35tKb4enxTSLoxJpgTY/edit?usp=sharing) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan1) |
 | 2   | Pertemuan 2  | ...  | [📄 Laporan](./laporan/pertemuan2.md) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan2) |
 | 3   | Pertemuan 3  | ...  | [📄 Laporan](./laporan/pertemuan3.md) | [🔗 Repo](https://github.com/username/repo/tree/pertemuan3) |
 
