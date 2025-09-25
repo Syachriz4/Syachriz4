@@ -24,7 +24,7 @@ Setiap pertemuan akan didokumentasikan pada tabel di bawah, dengan tautan ke fil
 | 5   | Pertemuan 3  | Widget SizedBox, Spacer, dan Card | [📄 Laporan](https://docs.google.com/document/d/198aUYtW-yOi51BpnkxUqYzwXv-4ua6Im/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_5) |
 | 6   | Pertemuan 3  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [📄 Laporan](https://docs.google.com/document/d/1-0jIOUp6POpnttnrn1UvIQ7SHqHyhn8l/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_6) |
 | 7   | Pertemuan 4  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [📄 Laporan](https://docs.google.com/document/d/1BF50x1qYWwORJl5pqltObR7ZrPIZY6O5/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_7) |
-| 8   | Pertemuan 4  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [📄 Laporan](https://docs.google.com/document/d/1-0jIOUp6POpnttnrn1UvIQ7SHqHyhn8l/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_8) |
+| 8   | Pertemuan 4  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named | [📄 Laporan](https://docs.google.com/document/d/18kiB8WkWZt72EBraeiPFRrmCwqDIJuZz/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_8) |
 ---
 
 ## 📂 Struktur Folder
