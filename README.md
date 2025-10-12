@@ -27,6 +27,7 @@ Setiap pertemuan akan didokumentasikan pada tabel di bawah, dengan tautan ke fil
 | 8   | Pertemuan 4  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named | [📄 Laporan](https://docs.google.com/document/d/18kiB8WkWZt72EBraeiPFRrmCwqDIJuZz/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_8) |
 | 9   | Pertemuan 5  | StatefulWidget | [📄 Laporan](https://docs.google.com/document/d/1zEfXOXeGjgu0vmtbarpLRyfcVNkHVOKf/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_9) |
 | 10   | Pertemuan 6  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [📄 Laporan](https://docs.google.com/document/d/1Zh1ez2NeLE4uoFIwpF9YzDo90Hly-srn/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_10) |
+| 11   | Pertemuan 7  | Manajemen State dengan GetX | [📄 Laporan](https://docs.google.com/document/d/1RssObdDmFMXKCEqlluORb1NnZsqjup4K/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_11) |
 ---
 
 
