@@ -31,6 +31,7 @@ Setiap pertemuan akan didokumentasikan pada tabel di bawah, dengan tautan ke fil
 | 12   | Pertemuan 8  | UTS | [📄 Laporan](https://docs.google.com/document/d/1XO3-POXT8db09-6busZBukP7cuLnQrkh/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/uts) |
 | 13   | Pertemuan 9  | Akses Lokasi dengan GPS di Flutter | [📄 Laporan](https://docs.google.com/document/d/1eK9KhHMcd84zNdJKWQ6HodzHmtY9xosI/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_12) |
 | 14   | Pertemuan 10  | Akses Lokasi dengan API GPS di Flutter | [📄 Laporan]() | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_13) |
+| 15   | Pertemuan 11  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [📄 Laporan](https://docs.google.com/document/d/1PzTUYVEufyBWimRXxbSoAZWtSsOe4t7F/edit?usp=sharing&ouid=108138779320570309383&rtpof=true&sd=true) | [🔗 Repo](https://github.com/BintangS4/Mobile-Programming/tree/main/modul_14) |
 ---
 
 
